@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216582520621",
+    "firebase_url": "https://ayb-itshare-33da3.firebaseio.com",
+    "project_id": "ayb-itshare-33da3",
+    "storage_bucket": "ayb-itshare-33da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216582520621:android:1ff52b926b638d5a",
+        "android_client_info": {
+          "package_name": "com.example.ayb_itshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216582520621-n0kk2je6tfm6ls8grng6btckhqhuqjmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayb_itshare",
+            "certificate_hash": "d3e19672db5f5b711300a55215603ef14e37a449"
+          }
+        },
+        {
+          "client_id": "216582520621-5r7av9u8ddt3fifc97ipu0i5rnr59fer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXklHACuHu35MNvuzMWxo40x-bgddhgdghfd"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216582520621-5r7av9u8ddt3fifc97ipu0i5rnr59fer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
